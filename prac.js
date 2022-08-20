@@ -16,4 +16,6 @@ for (let i = 0; i < arr.length; i++) {
         leng = arr[i].length;
     }
 }
-console.log(longest)
+// console.log(longest)
+const {a, b} = {x:2, y:3}
+console.log(a,b);
